@@ -1,2 +1,2 @@
-# class-21
-functions with arguments
+# collisionAlgorithm
+Algorithm to detect collision between two objects
